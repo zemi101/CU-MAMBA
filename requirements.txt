@@ -1,0 +1,10 @@
+opencv-python
+librosa
+mediapipe
+face-alignment
+transformers
+scikit-learn
+numpy
+matplotlib
+einops
+tqdm
